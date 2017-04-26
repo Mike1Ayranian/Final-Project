@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/elvis2.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -317,23 +317,23 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 	overflow: hidden;
 	padding-bottom:3em;
 }
-	
+
 .slides {
   overflow: hidden;
-  /**	
+  /**
    * Prevent blinking issue
    * Not tested. Experimental.
    */
   -webkit-backface-visibility: hidden;
   -webkit-transform-style: preserve-3d;
 
-   -webkit-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000); 
-   -moz-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000); 
-   -ms-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000); 
-   -o-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000); 
+   -webkit-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+   -moz-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+   -ms-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+   -o-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
    transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
 }
-	
+
 .slide {
 	float: left;
     clear: none;
@@ -351,7 +351,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
   font-weight: bold;
   padding: 8px 14px;
   color: #464646;
-  background: rgba(255,255,255,0.8); 
+  background: rgba(255,255,255,0.8);
 }
 .slide figure figcaption a {
   color: #5a7fbc;
@@ -749,7 +749,7 @@ p.augue_agile:after{
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
@@ -1120,7 +1120,7 @@ p.augue_agile:after{
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
     cursor: pointer;
-} 
+}
 .icon-box:hover {
     background: #000;
 	transition:0.5s all;
@@ -1139,11 +1139,11 @@ p.augue_agile:after{
     float: left;
     width: 12.5%;
     height: 115px;
-    padding: 10px; 
+    padding: 10px;
     line-height: 1.4;
-    text-align: center;  
+    text-align: center;
     font-size: 12px;
-    list-style-type: none;	
+    list-style-type: none;
 }
 .codes .bs-glyphicons .glyphicon {
     margin-top: 5px;
@@ -1161,7 +1161,7 @@ p.augue_agile:after{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .codes .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1214,7 +1214,7 @@ h3.agileits-icons-title {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1322,7 +1322,7 @@ li.list-group-item1 {
 .label {
 	font-weight: 300 !important;
 	border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
