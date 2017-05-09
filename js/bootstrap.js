@@ -30,6 +30,9 @@ if (typeof jQuery === 'undefined') {
 
   // CSS TRANSITION SUPPORT (Shoutout: http://www.modernizr.com/)
   // ============================================================
+function justin() {
+  
+}
 
   function transitionEnd() {
     var el = document.createElement('bootstrap')
