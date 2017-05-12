@@ -31,7 +31,7 @@ if (typeof jQuery === 'undefined') {
   // CSS TRANSITION SUPPORT (Shoutout: http://www.modernizr.com/)
   // ============================================================
   function justin() {
-   document.getElementbyID("banger1").setAttribute("style", "background: url(http://data.whicdn.com/images/112017850/large.jpg)")}
+   document.getElementById("banger1").setAttribute("style", "background: url(http://data.whicdn.com/images/112017850/large.jpg)")}
 
   function transitionEnd() {
     var el = document.createElement('bootstrap')
